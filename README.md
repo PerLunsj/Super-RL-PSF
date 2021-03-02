@@ -11,7 +11,7 @@ Create env with conda and install conda and pip requirements of submodules (Warn
 cd Super-RL-PSF
 conda env create -f environment.yml
 ```
-To work in conda env activate
+To work in conda env:
 ```
 conda activate super
 ```
