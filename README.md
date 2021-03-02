@@ -16,4 +16,9 @@ To work in conda env:
 conda activate super
 ```
 
+# Updating to submodules (unstable):
+To update to the lastest submodule
+```
+git submodule update --init --recursive
+```
 
