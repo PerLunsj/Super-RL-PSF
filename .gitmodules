@@ -1,0 +1,6 @@
+[submodule "PSF"]
+	path = PSF
+	url = https://github.com/PerLunsj/PSF.git
+[submodule "gym-rl-mpc"]
+	path = gym-rl-mpc
+	url = https://github.com/halvorot/gym-rl-mpc.git
